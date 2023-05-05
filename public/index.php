@@ -4,8 +4,11 @@ if(PHP_MAJOR_VERSION < 8){
     die('Необходима версия php >=8');
 }
 require_once dirname(__DIR__) . '/config/init.php';
+require_once HELPERS . '/functions.php';
+require_once CONFIG . '/routes.php';
 
 new \mf\App();
 
-//throw new Exception( 'Errorssssss');
-echo 'Hello';
+var_dump(\mf\Router::getRoutes());
+
+
