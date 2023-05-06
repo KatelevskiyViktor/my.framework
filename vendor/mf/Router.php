@@ -24,8 +24,86 @@ class Router
         return self::$route;
     }
 
+    public static function removeQueryString($url)
+    {
+        if($url){
+            $params = explode('&', $url, 2);
+            if(false === str_contains($params[0], '=')){
+                return rtrim($params[0], '/');
+            }
+        }
+        return '';
+    }
+
+    /**
+     * @throws \Exception
+     */
     public static function dispatch($url)
     {
-        var_dump($url);
+        $url = self::removeQueryString($url);
+        if (self::matchRoute($url)){
+           $controller = 'app\controllers\\' . self::$route['admin_prefix'] .
+           self::$route['controller'] . 'Controller';
+
+           if (class_exists($controller)){
+               $controllerObject = new $controller(self::$route);
+               $action = self::lowerCamelCase(self::$route['action'] . 'Action');
+
+               if (method_exists($controllerObject, $action)){
+                    $controllerObject->$action();
+               } else {
+                   throw new \Exception('Action ' . $controller . '::'
+                       . $action . ' not found', 404);
+               }
+
+           } else {
+               throw new \Exception('Controller ' . $controller . ' not found',
+                   404);
+           }
+        } else {
+            throw new \Exception('Page not found', 404);
+        }
+    }
+
+    public static function matchRoute($url): bool
+    {
+        foreach (self::$routes as $pattern => $route){
+            if (preg_match('#' . $pattern . '#', $url, $matches)){
+
+                foreach ($matches as $k => $v){
+                    if(is_string($k)){
+                        $route[$k] = $v;
+                    }
+                }
+
+                if (empty($route['action'])){
+                    $route['action'] = 'index';
+                }
+
+                if (!isset($route['admin_prefix'])){
+                    $route['admin_prefix'] = '';
+                } else {
+                    $route['admin_prefix'] .= '\\';
+                }
+
+                $route['controller'] = self::upperCamelCase($route['controller']);
+                self::$route = $route;
+                return true;
+            }
+        }
+        return false;
+    }
+
+    protected static function upperCamelCase($name): string
+    {
+        return str_replace(' ', '', ucwords(str_replace('-', ' ',
+            $name)));
+
+    }
+
+    protected static function lowerCamelCase($name): string
+    {
+        return lcfirst(self::upperCamelCase($name));
+
     }
 }

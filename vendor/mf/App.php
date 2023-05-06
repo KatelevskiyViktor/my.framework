@@ -11,6 +11,7 @@ class App
     public function __construct()
     {
         $query = trim(urldecode($_SERVER['QUERY_STRING']), '/');
+        var_dump($query);
         new ErrorHandler();
         self::$app = Registry::getInstance();
         $this->getParams();

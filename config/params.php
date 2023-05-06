@@ -2,6 +2,6 @@
 
 return [
     'admin_email' => 'admin@my.framework',
-    'site_name' => 'E-hop',
+    'site_name' => 'my-framy',
     'pagination' => 2,
 ];

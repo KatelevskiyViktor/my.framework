@@ -12,3 +12,39 @@
 ================
 [2023-05-05 17:59:03] Text error: Undefined variable $test | File: D:\temp_web\OpenServer\domains\my.framework\public\index.php | String: 11
 ================
+[2023-05-05 23:06:16] Text error: Too few arguments to function mf\Router::dispatch(), 0 passed in D:\temp_web\OpenServer\domains\my.framework\public\index.php on line 12 and exactly 1 expected | File: D:\temp_web\OpenServer\domains\my.framework\vendor\mf\Router.php | String: 27
+================
+[2023-05-05 23:06:36] Text error: Too few arguments to function mf\Router::dispatch(), 0 passed in D:\temp_web\OpenServer\domains\my.framework\public\index.php on line 12 and exactly 1 expected | File: D:\temp_web\OpenServer\domains\my.framework\vendor\mf\Router.php | String: 27
+================
+[2023-05-05 23:18:20] Text error: Too few arguments to function mf\Router::dispatch(), 0 passed in D:\temp_web\OpenServer\domains\my.framework\public\index.php on line 12 and exactly 1 expected | File: D:\temp_web\OpenServer\domains\my.framework\vendor\mf\Router.php | String: 27
+================
+[2023-05-05 23:18:25] Text error: Too few arguments to function mf\Router::dispatch(), 0 passed in D:\temp_web\OpenServer\domains\my.framework\public\index.php on line 12 and exactly 1 expected | File: D:\temp_web\OpenServer\domains\my.framework\vendor\mf\Router.php | String: 27
+================
+[2023-05-05 23:18:34] Text error: Too few arguments to function mf\Router::dispatch(), 0 passed in D:\temp_web\OpenServer\domains\my.framework\public\index.php on line 12 and exactly 1 expected | File: D:\temp_web\OpenServer\domains\my.framework\vendor\mf\Router.php | String: 27
+================
+[2023-05-05 23:18:39] Text error: Too few arguments to function mf\Router::dispatch(), 0 passed in D:\temp_web\OpenServer\domains\my.framework\public\index.php on line 12 and exactly 1 expected | File: D:\temp_web\OpenServer\domains\my.framework\vendor\mf\Router.php | String: 27
+================
+[2023-05-06 10:27:31] Text error: Undefined array key "admin_prefix" | File: D:\temp_web\OpenServer\domains\my.framework\vendor\mf\Router.php | String: 33
+================
+[2023-05-06 10:30:04] Text error: Undefined array key "admin_prefix" | File: D:\temp_web\OpenServer\domains\my.framework\vendor\mf\Router.php | String: 33
+================
+[2023-05-06 10:31:56] Text error: Undefined array key "admin_prefix" | File: D:\temp_web\OpenServer\domains\my.framework\vendor\mf\Router.php | String: 33
+================
+[2023-05-06 10:32:06] Text error: Undefined array key "admin_prefix" | File: D:\temp_web\OpenServer\domains\my.framework\vendor\mf\Router.php | String: 33
+================
+[2023-05-06 10:34:23] Text error: Undefined array key "admin_prefix" | File: D:\temp_web\OpenServer\domains\my.framework\vendor\mf\Router.php | String: 33
+================
+[2023-05-06 11:01:14] Text error: Controller app\controllers\PageController not found | File: D:\temp_web\OpenServer\domains\my.framework\vendor\mf\Router.php | String: 46
+================
+[2023-05-06 11:01:20] Text error: Controller app\controllers\MainController not found | File: D:\temp_web\OpenServer\domains\my.framework\vendor\mf\Router.php | String: 46
+================
+[2023-05-06 11:02:42] Text error: Action app\controllers\MainController::indexAction not found | File: D:\temp_web\OpenServer\domains\my.framework\vendor\mf\Router.php | String: 42
+================
+[2023-05-06 11:03:43] Text error: Call to undefined method app\controllers\MainController::action() | File: D:\temp_web\OpenServer\domains\my.framework\vendor\mf\Router.php | String: 40
+================
+[2023-05-06 11:04:52] Text error: Call to undefined method app\controllers\MainController::action() | File: D:\temp_web\OpenServer\domains\my.framework\vendor\mf\Router.php | String: 40
+================
+[2023-05-06 11:11:01] Text error: Action app\controllers\admin\MainController::indexAction not found | File: D:\temp_web\OpenServer\domains\my.framework\vendor\mf\Router.php | String: 43
+================
+[2023-05-06 11:29:34] Text error: Controller app\controllers\PaveController not found | File: D:\temp_web\OpenServer\domains\my.framework\vendor\mf\Router.php | String: 60
+================
