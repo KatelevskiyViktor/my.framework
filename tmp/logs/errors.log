@@ -48,3 +48,15 @@
 ================
 [2023-05-06 11:29:34] Text error: Controller app\controllers\PaveController not found | File: D:\temp_web\OpenServer\domains\my.framework\vendor\mf\Router.php | String: 60
 ================
+[2023-05-06 12:27:35] Text error: Cannot assign string to property mf\Controller::$model of type object | File: D:\temp_web\OpenServer\domains\my.framework\vendor\mf\Controller.php | String: 23
+================
+[2023-05-07 21:57:13] Text error: Page not found | File: D:\temp_web\OpenServer\domains\my.framework\vendor\mf\Router.php | String: 69
+================
+[2023-05-07 22:18:40] Text error: Undefined array key "gh" | File: D:\temp_web\OpenServer\domains\my.framework\public\index.php | String: 12
+================
+[2023-05-07 22:25:24] Text error: Undefined array key "gh" | File: D:\temp_web\OpenServer\domains\my.framework\public\index.php | String: 12
+================
+[2023-05-07 22:25:57] Text error: Undefined array key "gh" | File: D:\temp_web\OpenServer\domains\my.framework\public\index.php | String: 12
+================
+[2023-05-07 22:26:10] Text error: Undefined array key "gh" | File: D:\temp_web\OpenServer\domains\my.framework\public\index.php | String: 12
+================

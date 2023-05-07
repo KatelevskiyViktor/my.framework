@@ -9,7 +9,7 @@ define("HELPERS", ROOT . '/vendor/mf/helpers');
 define("CACHE", ROOT . '/tmp/cache');
 define("LOGS", ROOT . '/tmp/logs');
 define("CONFIG", ROOT . '/config');
-define("LAYOUT", 'ishop');
+define("LAYOUT", 'myframy');
 define('PATH', 'http://my.framework');
 define('ADMIN', 'http://my.framework/admin');
 define('NO_IMAGE', 'uploads/no_image.jpg');
