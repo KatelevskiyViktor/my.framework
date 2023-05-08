@@ -74,3 +74,17 @@
 ================
 [2023-05-08 19:50:28] Text error: Layouts not foundD:\temp_web\OpenServer\domains\my.framework/app/views/layouts/myframy.php | File: D:\temp_web\OpenServer\domains\my.framework\vendor\mf\View.php | String: 43
 ================
+[2023-05-08 22:54:24] Text error: Cannot assign app\models\Main to property mf\Controller::$model of type string | File: D:\temp_web\OpenServer\domains\my.framework\vendor\mf\Controller.php | String: 23
+================
+[2023-05-08 23:00:49] Text error: Cannot assign app\models\Main to property mf\Controller::$model of type string | File: D:\temp_web\OpenServer\domains\my.framework\vendor\mf\Controller.php | String: 23
+================
+[2023-05-08 23:01:02] Text error: Cannot assign app\models\Main to property mf\Controller::$model of type string | File: D:\temp_web\OpenServer\domains\my.framework\vendor\mf\Controller.php | String: 23
+================
+[2023-05-08 23:05:09] Text error: Cannot assign app\models\Main to property mf\Controller::$model of type string | File: D:\temp_web\OpenServer\domains\my.framework\vendor\mf\Controller.php | String: 23
+================
+[2023-05-08 23:06:05] Text error: Cannot assign app\models\Main to property mf\Controller::$model of type string | File: D:\temp_web\OpenServer\domains\my.framework\vendor\mf\Controller.php | String: 24
+================
+[2023-05-08 23:06:55] Text error: Cannot assign app\models\Main to property mf\Controller::$model of type string | File: D:\temp_web\OpenServer\domains\my.framework\vendor\mf\Controller.php | String: 24
+================
+[2023-05-08 23:07:20] Text error: Cannot assign app\models\Main to property mf\Controller::$model of type string | File: D:\temp_web\OpenServer\domains\my.framework\vendor\mf\Controller.php | String: 24
+================
