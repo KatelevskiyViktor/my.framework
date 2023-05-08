@@ -1,4 +1,4 @@
-public/errors/images
-.idea
-vendor
-!/vendor/mf
+/public/errors/images
+/.idea
+/vendor
+!/vendor/mf/*
