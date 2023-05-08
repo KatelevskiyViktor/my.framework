@@ -6,3 +6,7 @@ function debug($data, $die = false)
         die;
     }
 }
+
+function hsch($str){
+    return htmlspecialchars($str);
+}

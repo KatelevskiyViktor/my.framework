@@ -3,11 +3,11 @@
 
 namespace app\controllers\admin;
 
+use mf\Controller;
 
-class MainController
+class MainController extends Controller
 {
     public function indexAction()
     {
-        echo __METHOD__;
     }
 }

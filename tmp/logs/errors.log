@@ -60,3 +60,17 @@
 ================
 [2023-05-07 22:26:10] Text error: Undefined array key "gh" | File: D:\temp_web\OpenServer\domains\my.framework\public\index.php | String: 12
 ================
+[2023-05-08 15:31:36] Text error: Page not found | File: D:\temp_web\OpenServer\domains\my.framework\vendor\mf\Router.php | String: 70
+================
+[2023-05-08 19:37:32] Text error: View not foundD:\temp_web\OpenServer\domains\my.framework/app/view/Main/index.php | File: D:\temp_web\OpenServer\domains\my.framework\vendor\mf\View.php | String: 33
+================
+[2023-05-08 19:37:43] Text error: View not found D:\temp_web\OpenServer\domains\my.framework/app/view/Main/index.php | File: D:\temp_web\OpenServer\domains\my.framework\vendor\mf\View.php | String: 33
+================
+[2023-05-08 19:39:32] Text error: View not found^ D:\temp_web\OpenServer\domains\my.framework/app/view/Main/index.php | File: D:\temp_web\OpenServer\domains\my.framework\vendor\mf\View.php | String: 33
+================
+[2023-05-08 19:48:01] Text error: Layouts not foundD:\temp_web\OpenServer\domains\my.framework/app/views/layouts/myframy.php | File: D:\temp_web\OpenServer\domains\my.framework\vendor\mf\View.php | String: 43
+================
+[2023-05-08 19:49:06] Text error: Layouts not foundD:\temp_web\OpenServer\domains\my.framework/app/views/layouts/test.php | File: D:\temp_web\OpenServer\domains\my.framework\vendor\mf\View.php | String: 43
+================
+[2023-05-08 19:50:28] Text error: Layouts not foundD:\temp_web\OpenServer\domains\my.framework/app/views/layouts/myframy.php | File: D:\temp_web\OpenServer\domains\my.framework\vendor\mf\View.php | String: 43
+================

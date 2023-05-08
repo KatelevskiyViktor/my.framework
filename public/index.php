@@ -9,6 +9,6 @@ require_once CONFIG . '/routes.php';
 
 new \mf\App();
 
-debug(\mf\Router::getRoutes());
+
 
 
