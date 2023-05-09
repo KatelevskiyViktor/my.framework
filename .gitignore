@@ -1,5 +1,5 @@
 /public/errors/images
 /.idea
-vendor/composer
-vendor/gabordemooij
+vendor/*
+!vendor/mf
 
