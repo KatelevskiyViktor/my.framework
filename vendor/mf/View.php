@@ -49,7 +49,8 @@ class View
 
     public function getMeta()
     {
-        $out = '<title>' . hsch($this->meta['title']) . '</title>' . PHP_EOL;
+        $out = '<title>' . App::$app->getProperty('site_name') . ' :: ' .
+            hsch($this->meta['title']) . '</title>' . PHP_EOL;
         $out .= '<meta name=\'description\' content=\'' . hsch($this->meta['description']) . '\'>' .
             PHP_EOL;
         $out .= '<meta name=\'keywords\' content=\'' . hsch($this->meta['keywords']) . '\'>' . PHP_EOL;
@@ -59,12 +60,14 @@ class View
     public function getDBLogs()
     {
         if (DEBUG) {
-            $logs = R::getDatabaseAdapter()
-                ->getDatabase()
-                ->getLogger();
-            $logs = array_merge($logs->grep('SELECT'), $logs->grep('INSERT'),
-                $logs->grep('UPDATE'), $logs->grep('DELETE'));
-            debug($logs);
+            if (R::testConnection()) {
+                $logs = R::getDatabaseAdapter()
+                    ->getDatabase()
+                    ->getLogger();
+                $logs = array_merge($logs->grep('SELECT'), $logs->grep('INSERT'),
+                    $logs->grep('UPDATE'), $logs->grep('DELETE'));
+                debug($logs);
+            }
         }
     }
 

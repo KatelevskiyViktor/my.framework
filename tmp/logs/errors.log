@@ -278,3 +278,327 @@
 ================
 [2023-05-11 21:26:09] Text error: Page not found | File: D:\temp_web\OpenServer\domains\my.framework\vendor\mf\Router.php | String: 70
 ================
+[2023-05-12 15:57:47] Text error: Page not found | File: D:\temp_web\OpenServer\domains\my.framework\vendor\mf\Router.php | String: 70
+================
+[2023-05-12 15:57:54] Text error: compact(): Undefined variable $1 | File: D:\temp_web\OpenServer\domains\my.framework\app\views\Main\index.php | String: 44
+================
+[2023-05-12 15:58:49] Text error: compact(): Undefined variable $1 | File: D:\temp_web\OpenServer\domains\my.framework\app\views\Main\index.php | String: 44
+================
+[2023-05-12 15:58:49] Text error: Page not found | File: D:\temp_web\OpenServer\domains\my.framework\vendor\mf\Router.php | String: 70
+================
+[2023-05-12 15:59:14] Text error: Page not found | File: D:\temp_web\OpenServer\domains\my.framework\vendor\mf\Router.php | String: 70
+================
+[2023-05-12 15:59:14] Text error: Page not found | File: D:\temp_web\OpenServer\domains\my.framework\vendor\mf\Router.php | String: 70
+================
+[2023-05-12 15:59:16] Text error: Page not found | File: D:\temp_web\OpenServer\domains\my.framework\vendor\mf\Router.php | String: 70
+================
+[2023-05-12 15:59:23] Text error: compact(): Undefined variable $1 | File: D:\temp_web\OpenServer\domains\my.framework\app\views\Main\index.php | String: 44
+================
+[2023-05-12 15:59:29] Text error: compact(): Undefined variable $1 | File: D:\temp_web\OpenServer\domains\my.framework\app\views\Main\index.php | String: 44
+================
+[2023-05-12 16:01:26] Text error: compact(): Undefined variable $1 | File: D:\temp_web\OpenServer\domains\my.framework\app\views\Main\index.php | String: 44
+================
+[2023-05-12 16:14:41] Text error: Too few arguments to function mf\Registry::setProperty(), 1 passed in D:\temp_web\OpenServer\domains\my.framework\vendor\mf\Controller.php on line 41 and exactly 2 expected | File: D:\temp_web\OpenServer\domains\my.framework\vendor\mf\Registry.php | String: 13
+================
+[2023-05-12 16:45:36] Text error: Page not found | File: D:\temp_web\OpenServer\domains\my.framework\vendor\mf\Router.php | String: 70
+================
+[2023-05-12 16:58:17] Text error: Page not found | File: D:\temp_web\OpenServer\domains\my.framework\vendor\mf\Router.php | String: 70
+================
+[2023-05-12 16:58:17] Text error: Page not found | File: D:\temp_web\OpenServer\domains\my.framework\vendor\mf\Router.php | String: 70
+================
+[2023-05-12 16:58:17] Text error: Page not found | File: D:\temp_web\OpenServer\domains\my.framework\vendor\mf\Router.php | String: 70
+================
+[2023-05-12 16:58:17] Text error: Page not found | File: D:\temp_web\OpenServer\domains\my.framework\vendor\mf\Router.php | String: 70
+================
+[2023-05-12 16:58:17] Text error: Page not found | File: D:\temp_web\OpenServer\domains\my.framework\vendor\mf\Router.php | String: 70
+================
+[2023-05-12 17:03:48] Text error: Page not found | File: D:\temp_web\OpenServer\domains\my.framework\vendor\mf\Router.php | String: 70
+================
+[2023-05-12 17:03:48] Text error: Page not found | File: D:\temp_web\OpenServer\domains\my.framework\vendor\mf\Router.php | String: 70
+================
+[2023-05-12 17:03:48] Text error: Page not found | File: D:\temp_web\OpenServer\domains\my.framework\vendor\mf\Router.php | String: 70
+================
+[2023-05-12 17:03:48] Text error: Page not found | File: D:\temp_web\OpenServer\domains\my.framework\vendor\mf\Router.php | String: 70
+================
+[2023-05-12 17:03:48] Text error: Page not found | File: D:\temp_web\OpenServer\domains\my.framework\vendor\mf\Router.php | String: 70
+================
+[2023-05-12 17:05:24] Text error: Page not found | File: D:\temp_web\OpenServer\domains\my.framework\vendor\mf\Router.php | String: 70
+================
+[2023-05-12 17:05:24] Text error: Page not found | File: D:\temp_web\OpenServer\domains\my.framework\vendor\mf\Router.php | String: 70
+================
+[2023-05-12 17:05:24] Text error: Page not found | File: D:\temp_web\OpenServer\domains\my.framework\vendor\mf\Router.php | String: 70
+================
+[2023-05-12 17:05:24] Text error: Page not found | File: D:\temp_web\OpenServer\domains\my.framework\vendor\mf\Router.php | String: 70
+================
+[2023-05-12 17:05:24] Text error: Page not found | File: D:\temp_web\OpenServer\domains\my.framework\vendor\mf\Router.php | String: 70
+================
+[2023-05-12 19:39:52] Text error: Too few arguments to function app\widgets\language\Language::getLanguage(), 0 passed in D:\temp_web\OpenServer\domains\my.framework\app\controllers\AppController.php on line 21 and exactly 1 expected | File: D:\temp_web\OpenServer\domains\my.framework\app\widgets\language\Language.php | String: 31
+================
+[2023-05-12 19:39:56] Text error: Too few arguments to function app\widgets\language\Language::getLanguage(), 0 passed in D:\temp_web\OpenServer\domains\my.framework\app\controllers\AppController.php on line 21 and exactly 1 expected | File: D:\temp_web\OpenServer\domains\my.framework\app\widgets\language\Language.php | String: 31
+================
+[2023-05-12 19:40:45] Text error: Non-static method app\widgets\language\Language::getLanguages() cannot be called statically | File: D:\temp_web\OpenServer\domains\my.framework\app\controllers\AppController.php | String: 21
+================
+[2023-05-12 19:42:06] Text error: Page not found | File: D:\temp_web\OpenServer\domains\my.framework\vendor\mf\Router.php | String: 70
+================
+[2023-05-12 19:42:06] Text error: Page not found | File: D:\temp_web\OpenServer\domains\my.framework\vendor\mf\Router.php | String: 70
+================
+[2023-05-12 19:42:06] Text error: Page not found | File: D:\temp_web\OpenServer\domains\my.framework\vendor\mf\Router.php | String: 70
+================
+[2023-05-12 19:42:06] Text error: Page not found | File: D:\temp_web\OpenServer\domains\my.framework\vendor\mf\Router.php | String: 70
+================
+[2023-05-12 19:42:06] Text error: Page not found | File: D:\temp_web\OpenServer\domains\my.framework\vendor\mf\Router.php | String: 70
+================
+[2023-05-12 19:46:12] Text error: Page not found | File: D:\temp_web\OpenServer\domains\my.framework\vendor\mf\Router.php | String: 70
+================
+[2023-05-12 19:46:12] Text error: Page not found | File: D:\temp_web\OpenServer\domains\my.framework\vendor\mf\Router.php | String: 70
+================
+[2023-05-12 19:46:12] Text error: Page not found | File: D:\temp_web\OpenServer\domains\my.framework\vendor\mf\Router.php | String: 70
+================
+[2023-05-12 19:46:12] Text error: Page not found | File: D:\temp_web\OpenServer\domains\my.framework\vendor\mf\Router.php | String: 70
+================
+[2023-05-12 19:46:12] Text error: Page not found | File: D:\temp_web\OpenServer\domains\my.framework\vendor\mf\Router.php | String: 70
+================
+[2023-05-12 19:46:31] Text error: Page not found | File: D:\temp_web\OpenServer\domains\my.framework\vendor\mf\Router.php | String: 70
+================
+[2023-05-12 19:46:31] Text error: Page not found | File: D:\temp_web\OpenServer\domains\my.framework\vendor\mf\Router.php | String: 70
+================
+[2023-05-12 19:46:31] Text error: Page not found | File: D:\temp_web\OpenServer\domains\my.framework\vendor\mf\Router.php | String: 70
+================
+[2023-05-12 19:46:31] Text error: Page not found | File: D:\temp_web\OpenServer\domains\my.framework\vendor\mf\Router.php | String: 70
+================
+[2023-05-12 19:46:31] Text error: Page not found | File: D:\temp_web\OpenServer\domains\my.framework\vendor\mf\Router.php | String: 70
+================
+[2023-05-12 19:48:01] Text error: Page not found | File: D:\temp_web\OpenServer\domains\my.framework\vendor\mf\Router.php | String: 71
+================
+[2023-05-12 19:48:01] Text error: Page not found | File: D:\temp_web\OpenServer\domains\my.framework\vendor\mf\Router.php | String: 71
+================
+[2023-05-12 19:48:01] Text error: Page not found | File: D:\temp_web\OpenServer\domains\my.framework\vendor\mf\Router.php | String: 71
+================
+[2023-05-12 19:48:01] Text error: Page not found | File: D:\temp_web\OpenServer\domains\my.framework\vendor\mf\Router.php | String: 71
+================
+[2023-05-12 19:48:01] Text error: Page not found | File: D:\temp_web\OpenServer\domains\my.framework\vendor\mf\Router.php | String: 71
+================
+[2023-05-12 19:52:03] Text error: Page not found | File: D:\temp_web\OpenServer\domains\my.framework\vendor\mf\Router.php | String: 72
+================
+[2023-05-12 19:52:03] Text error: Page not found | File: D:\temp_web\OpenServer\domains\my.framework\vendor\mf\Router.php | String: 72
+================
+[2023-05-12 19:52:03] Text error: Page not found | File: D:\temp_web\OpenServer\domains\my.framework\vendor\mf\Router.php | String: 72
+================
+[2023-05-12 19:52:03] Text error: Page not found | File: D:\temp_web\OpenServer\domains\my.framework\vendor\mf\Router.php | String: 72
+================
+[2023-05-12 19:52:03] Text error: Page not found | File: D:\temp_web\OpenServer\domains\my.framework\vendor\mf\Router.php | String: 72
+================
+[2023-05-13 10:42:43] Text error: Page not found | File: D:\temp_web\OpenServer\domains\my.framework\vendor\mf\Router.php | String: 73
+================
+[2023-05-13 10:42:43] Text error: Page not found | File: D:\temp_web\OpenServer\domains\my.framework\vendor\mf\Router.php | String: 73
+================
+[2023-05-13 10:42:43] Text error: Page not found | File: D:\temp_web\OpenServer\domains\my.framework\vendor\mf\Router.php | String: 73
+================
+[2023-05-13 10:42:43] Text error: Page not found | File: D:\temp_web\OpenServer\domains\my.framework\vendor\mf\Router.php | String: 73
+================
+[2023-05-13 13:53:53] Text error: Page not found | File: D:\temp_web\OpenServer\domains\my.framework\vendor\mf\Router.php | String: 73
+================
+[2023-05-13 13:53:53] Text error: Page not found | File: D:\temp_web\OpenServer\domains\my.framework\vendor\mf\Router.php | String: 73
+================
+[2023-05-13 13:53:53] Text error: Page not found | File: D:\temp_web\OpenServer\domains\my.framework\vendor\mf\Router.php | String: 73
+================
+[2023-05-13 13:55:01] Text error: Page not found | File: D:\temp_web\OpenServer\domains\my.framework\vendor\mf\Router.php | String: 73
+================
+[2023-05-13 13:55:01] Text error: Page not found | File: D:\temp_web\OpenServer\domains\my.framework\vendor\mf\Router.php | String: 73
+================
+[2023-05-13 13:55:01] Text error: Page not found | File: D:\temp_web\OpenServer\domains\my.framework\vendor\mf\Router.php | String: 73
+================
+[2023-05-13 13:55:01] Text error: Page not found | File: D:\temp_web\OpenServer\domains\my.framework\vendor\mf\Router.php | String: 73
+================
+[2023-05-13 13:55:09] Text error: Page not found | File: D:\temp_web\OpenServer\domains\my.framework\vendor\mf\Router.php | String: 73
+================
+[2023-05-13 13:55:09] Text error: Page not found | File: D:\temp_web\OpenServer\domains\my.framework\vendor\mf\Router.php | String: 73
+================
+[2023-05-13 13:55:19] Text error: Page not found | File: D:\temp_web\OpenServer\domains\my.framework\vendor\mf\Router.php | String: 73
+================
+[2023-05-13 13:55:19] Text error: Page not found | File: D:\temp_web\OpenServer\domains\my.framework\vendor\mf\Router.php | String: 73
+================
+[2023-05-13 13:55:19] Text error: Page not found | File: D:\temp_web\OpenServer\domains\my.framework\vendor\mf\Router.php | String: 73
+================
+[2023-05-13 13:55:19] Text error: Page not found | File: D:\temp_web\OpenServer\domains\my.framework\vendor\mf\Router.php | String: 73
+================
+[2023-05-13 13:55:19] Text error: Page not found | File: D:\temp_web\OpenServer\domains\my.framework\vendor\mf\Router.php | String: 73
+================
+[2023-05-13 13:55:19] Text error: Page not found | File: D:\temp_web\OpenServer\domains\my.framework\vendor\mf\Router.php | String: 73
+================
+[2023-05-17 18:34:55] Text error: Page not found | File: D:\temp_web\OpenServer\domains\my.framework\vendor\mf\Router.php | String: 73
+================
+[2023-05-17 18:34:55] Text error: Page not found | File: D:\temp_web\OpenServer\domains\my.framework\vendor\mf\Router.php | String: 73
+================
+[2023-05-17 18:34:55] Text error: Page not found | File: D:\temp_web\OpenServer\domains\my.framework\vendor\mf\Router.php | String: 73
+================
+[2023-05-17 18:34:55] Text error: Page not found | File: D:\temp_web\OpenServer\domains\my.framework\vendor\mf\Router.php | String: 73
+================
+[2023-05-17 18:34:55] Text error: Page not found | File: D:\temp_web\OpenServer\domains\my.framework\vendor\mf\Router.php | String: 73
+================
+[2023-05-17 18:35:14] Text error: Page not found | File: D:\temp_web\OpenServer\domains\my.framework\vendor\mf\Router.php | String: 73
+================
+[2023-05-17 18:35:14] Text error: Page not found | File: D:\temp_web\OpenServer\domains\my.framework\vendor\mf\Router.php | String: 73
+================
+[2023-05-17 18:35:14] Text error: Page not found | File: D:\temp_web\OpenServer\domains\my.framework\vendor\mf\Router.php | String: 73
+================
+[2023-05-17 18:35:14] Text error: Page not found | File: D:\temp_web\OpenServer\domains\my.framework\vendor\mf\Router.php | String: 73
+================
+[2023-05-17 18:35:14] Text error: Page not found | File: D:\temp_web\OpenServer\domains\my.framework\vendor\mf\Router.php | String: 73
+================
+[2023-05-17 18:44:33] Text error: Not found language fr | File: D:\temp_web\OpenServer\domains\my.framework\app\widgets\language\Language.php | String: 37
+================
+[2023-05-17 18:44:43] Text error: Page not found | File: D:\temp_web\OpenServer\domains\my.framework\vendor\mf\Router.php | String: 73
+================
+[2023-05-17 18:44:43] Text error: Page not found | File: D:\temp_web\OpenServer\domains\my.framework\vendor\mf\Router.php | String: 73
+================
+[2023-05-17 18:44:43] Text error: Page not found | File: D:\temp_web\OpenServer\domains\my.framework\vendor\mf\Router.php | String: 73
+================
+[2023-05-17 18:44:43] Text error: Page not found | File: D:\temp_web\OpenServer\domains\my.framework\vendor\mf\Router.php | String: 73
+================
+[2023-05-17 18:47:48] Text error: Page not found | File: D:\temp_web\OpenServer\domains\my.framework\vendor\mf\Router.php | String: 73
+================
+[2023-05-17 18:47:48] Text error: Page not found | File: D:\temp_web\OpenServer\domains\my.framework\vendor\mf\Router.php | String: 73
+================
+[2023-05-17 18:47:48] Text error: Page not found | File: D:\temp_web\OpenServer\domains\my.framework\vendor\mf\Router.php | String: 73
+================
+[2023-05-17 18:47:48] Text error: Page not found | File: D:\temp_web\OpenServer\domains\my.framework\vendor\mf\Router.php | String: 73
+================
+[2023-05-17 18:47:48] Text error: Page not found | File: D:\temp_web\OpenServer\domains\my.framework\vendor\mf\Router.php | String: 73
+================
+[2023-05-17 18:47:55] Text error: Page not found | File: D:\temp_web\OpenServer\domains\my.framework\vendor\mf\Router.php | String: 73
+================
+[2023-05-17 18:47:55] Text error: Page not found | File: D:\temp_web\OpenServer\domains\my.framework\vendor\mf\Router.php | String: 73
+================
+[2023-05-17 18:47:55] Text error: Page not found | File: D:\temp_web\OpenServer\domains\my.framework\vendor\mf\Router.php | String: 73
+================
+[2023-05-17 18:47:55] Text error: Page not found | File: D:\temp_web\OpenServer\domains\my.framework\vendor\mf\Router.php | String: 73
+================
+[2023-05-17 18:47:55] Text error: Page not found | File: D:\temp_web\OpenServer\domains\my.framework\vendor\mf\Router.php | String: 73
+================
+[2023-05-17 18:48:06] Text error: Not found language fr | File: D:\temp_web\OpenServer\domains\my.framework\app\widgets\language\Language.php | String: 37
+================
+[2023-05-17 18:49:19] Text error: Page not found | File: D:\temp_web\OpenServer\domains\my.framework\vendor\mf\Router.php | String: 73
+================
+[2023-05-17 18:49:19] Text error: Page not found | File: D:\temp_web\OpenServer\domains\my.framework\vendor\mf\Router.php | String: 73
+================
+[2023-05-17 18:49:19] Text error: Page not found | File: D:\temp_web\OpenServer\domains\my.framework\vendor\mf\Router.php | String: 73
+================
+[2023-05-17 18:49:19] Text error: Page not found | File: D:\temp_web\OpenServer\domains\my.framework\vendor\mf\Router.php | String: 73
+================
+[2023-05-17 18:50:06] Text error: Page not found | File: D:\temp_web\OpenServer\domains\my.framework\vendor\mf\Router.php | String: 73
+================
+[2023-05-17 18:50:06] Text error: Page not found | File: D:\temp_web\OpenServer\domains\my.framework\vendor\mf\Router.php | String: 73
+================
+[2023-05-17 18:50:06] Text error: Page not found | File: D:\temp_web\OpenServer\domains\my.framework\vendor\mf\Router.php | String: 73
+================
+[2023-05-17 18:50:06] Text error: Page not found | File: D:\temp_web\OpenServer\domains\my.framework\vendor\mf\Router.php | String: 73
+================
+[2023-05-17 18:50:06] Text error: Page not found | File: D:\temp_web\OpenServer\domains\my.framework\vendor\mf\Router.php | String: 73
+================
+[2023-05-17 19:01:13] Text error: ob_end_flush(): Failed to delete and flush buffer. No buffer to delete or flush | File: D:\temp_web\OpenServer\domains\my.framework\vendor\mf\ErrorHandler.php | String: 38
+================
+[2023-05-17 19:01:13] Text error: Page not found | File: D:\temp_web\OpenServer\domains\my.framework\vendor\mf\Router.php | String: 73
+================
+[2023-05-17 19:01:13] Text error: ob_end_flush(): Failed to delete and flush buffer. No buffer to delete or flush | File: D:\temp_web\OpenServer\domains\my.framework\vendor\mf\ErrorHandler.php | String: 38
+================
+[2023-05-17 19:01:13] Text error: Page not found | File: D:\temp_web\OpenServer\domains\my.framework\vendor\mf\Router.php | String: 73
+================
+[2023-05-17 19:01:13] Text error: ob_end_flush(): Failed to delete and flush buffer. No buffer to delete or flush | File: D:\temp_web\OpenServer\domains\my.framework\vendor\mf\ErrorHandler.php | String: 38
+================
+[2023-05-17 19:01:13] Text error: Page not found | File: D:\temp_web\OpenServer\domains\my.framework\vendor\mf\Router.php | String: 73
+================
+[2023-05-17 19:01:13] Text error: Page not found | File: D:\temp_web\OpenServer\domains\my.framework\vendor\mf\Router.php | String: 73
+================
+[2023-05-17 19:01:13] Text error: ob_end_flush(): Failed to delete and flush buffer. No buffer to delete or flush | File: D:\temp_web\OpenServer\domains\my.framework\vendor\mf\ErrorHandler.php | String: 38
+================
+[2023-05-17 19:01:13] Text error: Page not found | File: D:\temp_web\OpenServer\domains\my.framework\vendor\mf\Router.php | String: 73
+================
+[2023-05-17 19:01:13] Text error: ob_end_flush(): Failed to delete and flush buffer. No buffer to delete or flush | File: D:\temp_web\OpenServer\domains\my.framework\vendor\mf\ErrorHandler.php | String: 38
+================
+[2023-05-17 19:01:13] Text error: ob_end_flush(): Failed to delete and flush buffer. No buffer to delete or flush | File: D:\temp_web\OpenServer\domains\my.framework\vendor\mf\ErrorHandler.php | String: 38
+================
+[2023-05-17 19:01:33] Text error: Page not found | File: D:\temp_web\OpenServer\domains\my.framework\vendor\mf\Router.php | String: 73
+================
+[2023-05-17 19:01:33] Text error: Page not found | File: D:\temp_web\OpenServer\domains\my.framework\vendor\mf\Router.php | String: 73
+================
+[2023-05-17 19:01:33] Text error: Page not found | File: D:\temp_web\OpenServer\domains\my.framework\vendor\mf\Router.php | String: 73
+================
+[2023-05-17 19:01:33] Text error: Page not found | File: D:\temp_web\OpenServer\domains\my.framework\vendor\mf\Router.php | String: 73
+================
+[2023-05-17 19:01:33] Text error: Page not found | File: D:\temp_web\OpenServer\domains\my.framework\vendor\mf\Router.php | String: 73
+================
+[2023-05-17 19:01:57] Text error: Not found language fr | File: D:\temp_web\OpenServer\domains\my.framework\app\widgets\language\Language.php | String: 38
+================
+[2023-05-17 19:01:57] Text error: ob_end_flush(): Failed to delete and flush buffer. No buffer to delete or flush | File: D:\temp_web\OpenServer\domains\my.framework\vendor\mf\ErrorHandler.php | String: 37
+================
+[2023-05-17 19:02:14] Text error: Not found language fr | File: D:\temp_web\OpenServer\domains\my.framework\app\widgets\language\Language.php | String: 38
+================
+[2023-05-17 19:03:05] Text error: Not found language fr | File: D:\temp_web\OpenServer\domains\my.framework\app\widgets\language\Language.php | String: 38
+================
+[2023-05-17 19:44:35] Text error: Too few arguments to function mf\Registry::setProperty(), 1 passed in D:\temp_web\OpenServer\domains\my.framework\app\controllers\AppController.php on line 22 and exactly 2 expected | File: D:\temp_web\OpenServer\domains\my.framework\vendor\mf\Registry.php | String: 13
+================
+[2023-05-17 19:44:46] Text error: Too few arguments to function mf\Registry::setProperty(), 1 passed in D:\temp_web\OpenServer\domains\my.framework\app\controllers\AppController.php on line 22 and exactly 2 expected | File: D:\temp_web\OpenServer\domains\my.framework\vendor\mf\Registry.php | String: 13
+================
+[2023-05-17 19:47:04] Text error: Too few arguments to function mf\Registry::setProperty(), 1 passed in D:\temp_web\OpenServer\domains\my.framework\app\controllers\AppController.php on line 22 and exactly 2 expected | File: D:\temp_web\OpenServer\domains\my.framework\vendor\mf\Registry.php | String: 13
+================
+[2023-05-17 19:49:06] Text error: Too few arguments to function mf\Registry::setProperty(), 1 passed in D:\temp_web\OpenServer\domains\my.framework\app\controllers\AppController.php on line 22 and exactly 2 expected | File: D:\temp_web\OpenServer\domains\my.framework\vendor\mf\Registry.php | String: 13
+================
+[2023-05-17 19:50:00] Text error: Page not found | File: D:\temp_web\OpenServer\domains\my.framework\vendor\mf\Router.php | String: 73
+================
+[2023-05-17 19:50:00] Text error: Page not found | File: D:\temp_web\OpenServer\domains\my.framework\vendor\mf\Router.php | String: 73
+================
+[2023-05-17 19:50:00] Text error: Page not found | File: D:\temp_web\OpenServer\domains\my.framework\vendor\mf\Router.php | String: 73
+================
+[2023-05-17 19:50:00] Text error: Page not found | File: D:\temp_web\OpenServer\domains\my.framework\vendor\mf\Router.php | String: 73
+================
+[2023-05-17 19:50:00] Text error: Page not found | File: D:\temp_web\OpenServer\domains\my.framework\vendor\mf\Router.php | String: 73
+================
+[2023-05-17 19:50:22] Text error: Page not found | File: D:\temp_web\OpenServer\domains\my.framework\vendor\mf\Router.php | String: 73
+================
+[2023-05-17 19:50:22] Text error: Page not found | File: D:\temp_web\OpenServer\domains\my.framework\vendor\mf\Router.php | String: 73
+================
+[2023-05-17 19:50:22] Text error: Page not found | File: D:\temp_web\OpenServer\domains\my.framework\vendor\mf\Router.php | String: 73
+================
+[2023-05-17 19:50:22] Text error: Page not found | File: D:\temp_web\OpenServer\domains\my.framework\vendor\mf\Router.php | String: 73
+================
+[2023-05-17 19:57:51] Text error: Page not found | File: D:\temp_web\OpenServer\domains\my.framework\vendor\mf\Router.php | String: 73
+================
+[2023-05-17 19:57:51] Text error: Page not found | File: D:\temp_web\OpenServer\domains\my.framework\vendor\mf\Router.php | String: 73
+================
+[2023-05-17 19:57:51] Text error: Page not found | File: D:\temp_web\OpenServer\domains\my.framework\vendor\mf\Router.php | String: 73
+================
+[2023-05-17 19:57:51] Text error: Page not found | File: D:\temp_web\OpenServer\domains\my.framework\vendor\mf\Router.php | String: 73
+================
+[2023-05-17 19:57:51] Text error: Page not found | File: D:\temp_web\OpenServer\domains\my.framework\vendor\mf\Router.php | String: 73
+================
+[2023-05-17 20:05:37] Text error: Page not found | File: D:\temp_web\OpenServer\domains\my.framework\vendor\mf\Router.php | String: 73
+================
+[2023-05-17 20:05:37] Text error: Page not found | File: D:\temp_web\OpenServer\domains\my.framework\vendor\mf\Router.php | String: 73
+================
+[2023-05-17 20:05:37] Text error: Page not found | File: D:\temp_web\OpenServer\domains\my.framework\vendor\mf\Router.php | String: 73
+================
+[2023-05-17 20:05:37] Text error: Page not found | File: D:\temp_web\OpenServer\domains\my.framework\vendor\mf\Router.php | String: 73
+================
+[2023-05-17 20:05:37] Text error: Page not found | File: D:\temp_web\OpenServer\domains\my.framework\vendor\mf\Router.php | String: 73
+================
+[2023-05-17 20:07:22] Text error: app\widgets\language\Language::getHtml(): Return value must be of type array, string returned | File: D:\temp_web\OpenServer\domains\my.framework\app\widgets\language\Language.php | String: 52
+================
+[2023-05-17 20:08:17] Text error: Page not found | File: D:\temp_web\OpenServer\domains\my.framework\vendor\mf\Router.php | String: 73
+================
+[2023-05-17 20:08:17] Text error: Page not found | File: D:\temp_web\OpenServer\domains\my.framework\vendor\mf\Router.php | String: 73
+================
+[2023-05-17 20:08:17] Text error: Page not found | File: D:\temp_web\OpenServer\domains\my.framework\vendor\mf\Router.php | String: 73
+================
+[2023-05-17 20:08:17] Text error: Page not found | File: D:\temp_web\OpenServer\domains\my.framework\vendor\mf\Router.php | String: 73
+================
+[2023-05-17 20:08:40] Text error: Page not found | File: D:\temp_web\OpenServer\domains\my.framework\vendor\mf\Router.php | String: 73
+================
+[2023-05-17 20:08:40] Text error: Page not found | File: D:\temp_web\OpenServer\domains\my.framework\vendor\mf\Router.php | String: 73
+================
+[2023-05-17 20:08:40] Text error: Page not found | File: D:\temp_web\OpenServer\domains\my.framework\vendor\mf\Router.php | String: 73
+================
+[2023-05-17 20:08:40] Text error: Page not found | File: D:\temp_web\OpenServer\domains\my.framework\vendor\mf\Router.php | String: 73
+================
+[2023-05-17 20:08:40] Text error: Page not found | File: D:\temp_web\OpenServer\domains\my.framework\vendor\mf\Router.php | String: 73
+================
